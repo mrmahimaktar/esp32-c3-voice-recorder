@@ -1,0 +1,8 @@
+server/config/config.php
+firmware/secrets.h
+server/api/uploads/*
+server/api/replies/*
+*.o
+*.elf
+*.bin
+.DS_Store
