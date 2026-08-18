@@ -1,0 +1,14 @@
+ESP32-C3 Pin Connections:
+
+GPIO 0  -> INMP441 SD
+GPIO 1  -> MAX98357A DIN
+GPIO 2  -> INMP441 SCK, MAX98357A BCLK
+GPIO 3  -> INMP441 WS, MAX98357A LRC
+GPIO 7  -> Button B4 (to GND)
+GPIO 8  -> OLED SDA
+GPIO 9  -> OLED SCL
+GPIO 10 -> Button B1 (to GND)
+GPIO 20 -> Button B2 (to GND)
+GPIO 21 -> Button B3 (to GND)
+3V3/MCU -> VDD/3V3 of all modules
+GND     -> All grounds
